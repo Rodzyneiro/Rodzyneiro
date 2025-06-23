@@ -10,4 +10,4 @@
 - HTML
 - CSS
 
-https://discord.com/users/696051326529961984
+[![Discord Presence](https://lanyard.cnrad.dev/api/696051326529961984)](https://discord.com/users/696051326529961984)
