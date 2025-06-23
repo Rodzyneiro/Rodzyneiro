@@ -1,6 +1,6 @@
 # :wave: Hi, I’m Rodzyn
 
-**I'm a beginner in programming, now I'm only learning my first languages.**
+**Aspiring developer, trying their best to learn more.**
 
 ### Languages I know:
 - C# (Sort of)
