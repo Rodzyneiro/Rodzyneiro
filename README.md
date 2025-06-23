@@ -9,3 +9,5 @@
 - JS
 - HTML
 - CSS
+
+https://discord.com/users/696051326529961984
