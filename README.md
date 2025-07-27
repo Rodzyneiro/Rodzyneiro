@@ -1,10 +1,10 @@
 # :wave: Hi, I’m Rodzyn
 
-**Aspiring developer, trying their best. For couple of years (I started in 2022/2023) I am trying to learn roblox library, and Lua. Looking for people to work with.**
+**Aspiring developer, trying their best. For couple of years (I started in 2022/2023) I am working with Roblox and its Engine.**
 
 ### Languages I know:
 - C# (Very little of it)
-- Lua
+- Lua/Luau
 - HTML
 - CSS
 
