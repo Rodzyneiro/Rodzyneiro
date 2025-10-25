@@ -8,4 +8,10 @@
 - HTML
 - CSS
 
+### What I know in Luau:
+- Data systems,
+- OOP (Module Scripts),
+- Random generating algorythms (trees for example),
+- And more!
+
 [![Discord Presence](https://lanyard.cnrad.dev/api/696051326529961984)](https://discord.com/users/696051326529961984)
